@@ -89,6 +89,7 @@ body {
 .link-addres {
   color: #434455;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .link:hover {
   color: #404bbf;
