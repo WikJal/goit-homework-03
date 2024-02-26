@@ -118,3 +118,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+a {
+  text-decoration: none;
+  list-style-type: none;
+}
