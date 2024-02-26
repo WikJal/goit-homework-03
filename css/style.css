@@ -9,6 +9,7 @@
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496;
 }
 .header-trzy {
   font-weight: 500;
@@ -66,6 +67,7 @@ body {
 }
 .sekcja {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .button {
   background-color: #4d5ae5;
@@ -76,6 +78,11 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 .button:hover {
   background-color: #404bbf;
