@@ -40,6 +40,7 @@
   line-height: 1.17;
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 .logo-style {
   font-family: "Raleway", sans-serif;
@@ -137,4 +138,12 @@ ul {
 .header-wrap {
   display: flex;
   align-items: center;
+}
+.navigation {
+  display: flex;
+  align-items: center;
+}
+.container {
+  width: 1158px;
+  padding: 0 15px;
 }
