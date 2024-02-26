@@ -92,6 +92,7 @@ body {
   letter-spacing: 0.02em;
   text-decoration: none;
   list-style-type: none;
+  padding: 24px 0;
 }
 .link-addres {
   color: #434455;
