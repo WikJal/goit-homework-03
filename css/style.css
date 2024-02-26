@@ -90,8 +90,6 @@ body {
 .link-addres {
   color: #434455;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 .link:hover {
   color: #404bbf;
@@ -110,6 +108,8 @@ body {
 }
 .lis {
   background-color: #ffffff;
+  text-decoration: none;
+  list-style-type: none;
 }
 .footer {
   background-color: #2e2f42;
@@ -121,5 +121,7 @@ body {
 }
 a {
   text-decoration: none;
+}
+ul {
   list-style-type: none;
 }
