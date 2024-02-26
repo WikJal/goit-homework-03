@@ -118,6 +118,7 @@ body {
   list-style-type: none;
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .lis:last-child {
   margin-right: 0;
@@ -158,4 +159,8 @@ ul {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+}
+.ul-list {
+  display: flex;
+  gap: 40px;
 }
