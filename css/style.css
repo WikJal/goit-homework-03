@@ -84,6 +84,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .link-addres {
   color: #434455;
@@ -106,6 +107,7 @@ body {
 }
 .lis {
   background-color: #ffffff;
+  list-style-type: none;
 }
 .footer {
   background-color: #2e2f42;
