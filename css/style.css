@@ -116,6 +116,11 @@ body {
   background-color: #ffffff;
   text-decoration: none;
   list-style-type: none;
+  display: flex;
+  gap: 40px;
+}
+.lis:last-child {
+  margin-right: 0;
 }
 .footer {
   background-color: #2e2f42;
