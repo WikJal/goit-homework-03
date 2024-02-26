@@ -1,3 +1,8 @@
+* *::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .header {
   font-size: 56px;
   line-height: 1.07;
@@ -124,4 +129,12 @@ a {
 }
 ul {
   list-style-type: none;
+}
+.header-container {
+  border-bottom: 1px solid #e7e9fc;
+  margin: 24px 0;
+}
+.header-wrap {
+  display: flex;
+  align-items: center;
 }
