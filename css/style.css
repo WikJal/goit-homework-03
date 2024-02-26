@@ -142,8 +142,10 @@ ul {
 .navigation {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .container {
   width: 1158px;
   padding: 0 15px;
+  margin: 0 auto;
 }
