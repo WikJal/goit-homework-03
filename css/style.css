@@ -164,3 +164,6 @@ ul {
   display: flex;
   gap: 40px;
 }
+.ul-list:last-child {
+  margin-right: 0;
+}
