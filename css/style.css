@@ -33,6 +33,7 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .logo {
   font-weight: 700;
@@ -123,6 +124,7 @@ body {
 }
 .sekcja-trzy {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .lis {
   background-color: #ffffff;
