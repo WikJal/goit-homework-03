@@ -69,6 +69,9 @@ body {
   background-color: #2e2f42;
   padding: 188px 0;
 }
+.sekcja-dwa{
+  padding: 120px 0;
+}
 .button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -128,6 +131,9 @@ body {
   gap: 40px;
   padding: 24px 0;
 }
+.lis-dwa{
+  width:calc((100% - 72px) / 4);
+}
 .lis:last-child {
   margin-right: 0;
 }
@@ -173,6 +179,10 @@ ul {
   display: flex;
   gap: 40px;
 }
+.ul-list-dwa{
+  display: flex;
+  gap: 24px;
+}
 .ul-list:last-child {
   margin-right: 0;
 }
@@ -188,3 +198,14 @@ ul {
   display: inline-block;
   margin-bottom: 16px;
 }
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;}
