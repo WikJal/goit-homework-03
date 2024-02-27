@@ -17,6 +17,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .pee {
   font-size: 16px;
@@ -69,7 +70,7 @@ body {
   background-color: #2e2f42;
   padding: 188px 0;
 }
-.sekcja-dwa{
+.sekcja-dwa {
   padding: 120px 0;
 }
 .button {
@@ -131,8 +132,8 @@ body {
   gap: 40px;
   padding: 24px 0;
 }
-.lis-dwa{
-  width:calc((100% - 72px) / 4);
+.lis-dwa {
+  width: calc((100% - 72px) / 4);
 }
 .lis:last-child {
   margin-right: 0;
@@ -179,7 +180,7 @@ ul {
   display: flex;
   gap: 40px;
 }
-.ul-list-dwa{
+.ul-list-dwa {
   display: flex;
   gap: 24px;
 }
@@ -208,4 +209,5 @@ ul {
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
-  overflow: hidden;}
+  overflow: hidden;
+}
