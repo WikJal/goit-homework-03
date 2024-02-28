@@ -46,6 +46,7 @@
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   margin-right: 76px;
+  display: flex;
 }
 .logo-style {
   font-family: "Raleway", sans-serif;
