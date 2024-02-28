@@ -20,6 +20,11 @@
   margin-bottom: 8px;
   text-align: center;
 }
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 .pee {
   font-size: 16px;
   line-height: 1.5;
