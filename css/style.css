@@ -132,6 +132,7 @@ body {
 
 .sekcja-cztery {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .lis {
@@ -203,6 +204,12 @@ ul {
 .ul-list-dwa {
   display: flex;
   gap: 24px;
+}
+.ul-list-trzy {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 .ul-list:last-child {
   margin-right: 0;
