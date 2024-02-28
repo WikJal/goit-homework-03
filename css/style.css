@@ -202,7 +202,6 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .li-trzy {
   width: calc((100% - 48px) / 3);
