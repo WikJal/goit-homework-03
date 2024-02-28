@@ -243,10 +243,7 @@ ul {
   overflow: hidden;
 }
 .personal {
-  padding-left: 16px;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-right: 16px;
+  padding: 32px 16px;
 }
 .appi {
   padding: 32px 16px;
