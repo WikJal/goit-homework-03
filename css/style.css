@@ -128,6 +128,11 @@ body {
   background-color: #f4f4fd;
   padding: 120px 0;
   width: calc((100% - 72px) / 4);
+
+.sekcja-cztery{padding-top: 120px;
+}
+
+  
 }
 .lis {
   background-color: #ffffff;
