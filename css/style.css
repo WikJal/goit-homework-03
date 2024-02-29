@@ -197,7 +197,7 @@ ul {
   width: calc((100% - 3 * 24px) / 4);
   border-radius: 0px 0px 4px 4px;
   background-color: #ffffff;
- 
+
   gap: 40px;
 }
 .li-trzy {
@@ -211,7 +211,8 @@ ul {
 .ul-list-dwa {
   display: flex;
   gap: 24px;
-  
+  margin: 0;
+  padding: 0;
 }
 .ul-list-trzy {
   display: flex;
